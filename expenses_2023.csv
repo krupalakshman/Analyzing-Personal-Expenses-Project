@@ -1,0 +1,1201 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+02-01-2023,Bills,UPI,Electricity Bill,125.03,4.01
+02-01-2023,Groceries,Debit Card,Bakery,978.22,0
+02-01-2023,Miscellaneous,Debit Card,Miscellanoues Expense,885.62,0
+02-01-2023,Bills,Debit Card,Mobile Bill,208.24,0
+03-01-2023,Shopping,Credit Card,Beauty,729.97,4.66
+03-01-2023,Miscellaneous,Credit Card,Miscellanoues Expense,162.44,11.04
+04-01-2023,Subscriptions,Debit Card,Music,93.25,0
+04-01-2023,Entertainment,Cash,Concert Tickets,246.52,0
+04-01-2023,Groceries,Debit Card,Bakery,488.39,0
+04-01-2023,Shopping,Net Banking,Beauty,599.53,0
+05-01-2023,Groceries,Credit Card,Fruits,524.95,33.48
+06-01-2023,Subscriptions,Net Banking,Software,118.4,0
+06-01-2023,Bills,Net Banking,Water Bill,627.5,0
+06-01-2023,Entertainment,Debit Card,Music,840.6,0
+07-01-2023,Bills,UPI,Mobile Bill,517.4,17.28
+07-01-2023,Bills,Credit Card,Mobile Bill,628.14,48.93
+07-01-2023,Bills,Credit Card,Mobile Bill,904.38,77.38
+08-01-2023,Entertainment,Cash,Concert Tickets,684.61,0
+08-01-2023,Bills,UPI,Internet Bill,612.03,41.91
+09-01-2023,Entertainment,Net Banking,Hobbies,520.33,0
+09-01-2023,Entertainment,Credit Card,Music,418.43,5.5
+09-01-2023,Subscriptions,UPI,Spotify,383.22,19.4
+10-01-2023,Healthcare,Net Banking,Hospital Bill,3899.27,0
+10-01-2023,Groceries,Net Banking,Fruits,337.44,0
+10-01-2023,Miscellaneous,Debit Card,Miscellanoues Expense,68.95,0
+10-01-2023,Miscellaneous,Net Banking,Miscellanoues Expense,635.31,0
+11-01-2023,Groceries,Credit Card,Household,665.73,15.88
+11-01-2023,Miscellaneous,Net Banking,Miscellanoues Expense,326.09,0
+11-01-2023,Miscellaneous,Debit Card,Miscellanoues Expense,120.38,0
+11-01-2023,Entertainment,Cash,Movie Tickets,181.9,0
+12-01-2023,Bills,Debit Card,Mobile Bill,398.1,0
+12-01-2023,Entertainment,Credit Card,Hobbies,99.16,3.93
+12-01-2023,Miscellaneous,Net Banking,Miscellanoues Expense,912.23,0
+12-01-2023,Groceries,Net Banking,Bakery,204.81,0
+13-01-2023,Subscriptions,Cash,Gym,442.49,0
+13-01-2023,Bills,Credit Card,Internet Bill,350.81,3.38
+13-01-2023,Groceries,Credit Card,Vegetables,425.15,35.7
+13-01-2023,Shopping,Credit Card,Beauty,74.68,1.32
+13-01-2023,Groceries,Net Banking,Meat,121.09,0
+14-01-2023,Shopping,Debit Card,Electronics,842.39,0
+14-01-2023,Entertainment,Debit Card,Concert Tickets,781.7,0
+15-01-2023,Groceries,Net Banking,Meat,985.64,0
+15-01-2023,Miscellaneous,Cash,Miscellanoues Expense,431.36,0
+15-01-2023,Miscellaneous,Cash,Miscellanoues Expense,855.8,0
+15-01-2023,Shopping,Credit Card,Beauty,275.34,18.31
+15-01-2023,Subscriptions,Cash,Music,591.81,0
+16-01-2023,Subscriptions,Net Banking,Netflix,776.2,0
+16-01-2023,Entertainment,Debit Card,Music,93.69,0
+16-01-2023,Shopping,Debit Card,Beauty,227.54,0
+16-01-2023,Miscellaneous,UPI,Miscellanoues Expense,304.09,7.99
+17-01-2023,Entertainment,Cash,Movie Tickets,108.45,0
+18-01-2023,Healthcare,UPI,Doctor's fee,2426.44,74.22
+18-01-2023,Bills,UPI,Water Bill,798.02,27.98
+18-01-2023,Groceries,Credit Card,Fruits,161.29,7.14
+19-01-2023,Shopping,Cash,Beauty,15.04,0
+19-01-2023,Healthcare,Net Banking,Medicine,4225.44,0
+20-01-2023,Groceries,UPI,Snacks,201.67,13.03
+20-01-2023,Bills,Credit Card,Gas Bill,370.52,34.98
+20-01-2023,Entertainment,UPI,Music,383.63,4.99
+20-01-2023,Healthcare,Net Banking,Doctor's fee,3923.62,0
+20-01-2023,Entertainment,UPI,Music,48.55,3.91
+20-01-2023,Groceries,Credit Card,Snacks,722.3,14.31
+21-01-2023,Shopping,UPI,Home Goods,54.45,4.03
+22-01-2023,Shopping,Credit Card,Beauty,291.97,29.05
+22-01-2023,Bills,Debit Card,Electricity Bill,966.46,0
+22-01-2023,Groceries,Credit Card,Bakery,24.55,0.7
+23-01-2023,Subscriptions,Net Banking,Amazon Prime,712.04,0
+23-01-2023,Miscellaneous,Net Banking,Miscellanoues Expense,732.42,0
+23-01-2023,Shopping,Credit Card,Clothing,265.48,24.35
+24-01-2023,Miscellaneous,UPI,Miscellanoues Expense,267.14,11.58
+24-01-2023,Entertainment,Debit Card,Gaming,241.8,0
+24-01-2023,Entertainment,UPI,Concert Tickets,695.31,51.5
+24-01-2023,Miscellaneous,Debit Card,Miscellanoues Expense,464.62,0
+24-01-2023,Shopping,Credit Card,Brought a Gift for Someone,567.64,54.26
+25-01-2023,Miscellaneous,Net Banking,Miscellanoues Expense,348.03,0
+25-01-2023,Entertainment,Debit Card,Gaming,847.75,0
+25-01-2023,Shopping,Credit Card,Electronics,388.81,25.42
+26-01-2023,Travel,Net Banking,Train ticket,462.06,0
+26-01-2023,Groceries,Debit Card,Beverages,744.16,0
+26-01-2023,Bills,UPI,Insurance Bill,144.28,13.17
+27-01-2023,Groceries,Net Banking,Pet Food,205.94,0
+27-01-2023,Subscriptions,Credit Card,Amazon Prime,839.19,79.43
+27-01-2023,Healthcare,Credit Card,Medicine,4259.01,6.39
+27-01-2023,Entertainment,Net Banking,Concert Tickets,955.65,0
+28-01-2023,Miscellaneous,UPI,Miscellanoues Expense,534.41,33.3
+28-01-2023,Bills,Net Banking,Internet Bill,808.03,0
+28-01-2023,Shopping,UPI,Home Goods,52.22,4.14
+29-01-2023,Subscriptions,UPI,Netflix,492.42,27.13
+29-01-2023,Entertainment,Credit Card,Movie Tickets,983.16,84.9
+29-01-2023,Healthcare,Debit Card,Hospital Bill,1580.17,0
+29-01-2023,Groceries,Debit Card,Household,451.51,0
+30-01-2023,Entertainment,UPI,Concert Tickets,226.13,22.32
+30-01-2023,Subscriptions,Debit Card,Software,516.03,0
+30-01-2023,Shopping,UPI,Home Goods,905,10.33
+30-01-2023,Subscriptions,Cash,Gym,42.17,0
+31-01-2023,Healthcare,Credit Card,Doctor's fee,3221.16,29.98
+31-01-2023,Healthcare,Net Banking,Doctor's fee,2843.9,0
+31-01-2023,Subscriptions,Net Banking,Software,904.44,0
+31-01-2023,Groceries,Cash,Fruits,695.76,0
+31-01-2023,Shopping,Cash,Clothing,193.51,0
+01-02-2023,Groceries,Cash,Household,165.08,0
+01-02-2023,Miscellaneous,Net Banking,Miscellanoues Expense,692.12,0
+01-02-2023,Bills,UPI,Water Bill,178.58,1.16
+02-02-2023,Groceries,UPI,Beverages,73.98,4.49
+02-02-2023,Groceries,Net Banking,Bakery,283.31,0
+02-02-2023,Shopping,Net Banking,Clothing,622.16,0
+02-02-2023,Shopping,Debit Card,Home Goods,136.32,0
+03-02-2023,Healthcare,Net Banking,Hospital Bill,2656.38,0
+03-02-2023,Bills,Cash,Gas Bill,768.32,0
+03-02-2023,Bills,UPI,Mobile Bill,140.28,6.28
+04-02-2023,Shopping,UPI,Brought a Gift for Someone,14.68,0.01
+04-02-2023,Shopping,UPI,Electronics,859.64,77.49
+04-02-2023,Travel,Net Banking,Hotel,2421.7,0
+05-02-2023,Miscellaneous,Cash,Miscellanoues Expense,249.96,0
+05-02-2023,Entertainment,Debit Card,Hobbies,996.11,0
+05-02-2023,Groceries,Credit Card,Beverages,472.52,44.84
+05-02-2023,Shopping,Cash,Electronics,145.62,0
+05-02-2023,Entertainment,UPI,Gaming,486.96,18.93
+06-02-2023,Bills,Net Banking,Internet Bill,260.65,0
+06-02-2023,Entertainment,Cash,Concert Tickets,878.41,0
+06-02-2023,Healthcare,Credit Card,Medicine,3606.45,91.43
+06-02-2023,Entertainment,UPI,Sports,613.62,28.45
+06-02-2023,Bills,Cash,Cable Bill,633.58,0
+06-02-2023,Bills,Debit Card,Insurance Bill,325.92,0
+06-02-2023,Groceries,UPI,Household,954.36,74.98
+06-02-2023,Entertainment,Cash,Music,372.68,0
+06-02-2023,Subscriptions,Net Banking,Spotify,64.58,0
+07-02-2023,Subscriptions,UPI,Amazon Prime,120.39,2.93
+07-02-2023,Entertainment,Debit Card,Sports,141.73,0
+07-02-2023,Miscellaneous,Credit Card,Miscellanoues Expense,62.31,2.24
+07-02-2023,Healthcare,Credit Card,Medicine,2041.9,18.43
+08-02-2023,Subscriptions,Net Banking,Amazon Prime,491.74,0
+08-02-2023,Miscellaneous,Credit Card,Miscellanoues Expense,819.04,31.41
+08-02-2023,Miscellaneous,UPI,Miscellanoues Expense,180.84,15.74
+08-02-2023,Subscriptions,UPI,Amazon Prime,731.49,31.58
+09-02-2023,Miscellaneous,Cash,Miscellanoues Expense,606.5,0
+10-02-2023,Bills,UPI,Internet Bill,51.88,4.88
+10-02-2023,Shopping,Cash,Home Goods,962.03,0
+11-02-2023,Miscellaneous,Net Banking,Miscellanoues Expense,860.08,0
+11-02-2023,Miscellaneous,Net Banking,Miscellanoues Expense,388.12,0
+11-02-2023,Shopping,Net Banking,Clothing,903.35,0
+12-02-2023,Entertainment,Cash,Music,160.09,0
+12-02-2023,Groceries,Cash,Household,347.53,0
+13-02-2023,Bills,Net Banking,Internet Bill,519.22,0
+13-02-2023,Bills,Cash,Gas Bill,426.68,0
+13-02-2023,Subscriptions,Credit Card,Music,47.09,4.57
+14-02-2023,Healthcare,UPI,Hospital Bill,649.05,12.04
+14-02-2023,Miscellaneous,Cash,Miscellanoues Expense,879.29,0
+15-02-2023,Shopping,Credit Card,Clothing,755.47,42.42
+15-02-2023,Entertainment,Net Banking,Gaming,444.23,0
+15-02-2023,Bills,UPI,Insurance Bill,427.11,1.25
+15-02-2023,Subscriptions,Cash,Gym,684.53,0
+16-02-2023,Bills,Debit Card,Gas Bill,720.7,0
+16-02-2023,Groceries,Net Banking,Vegetables,23.08,0
+16-02-2023,Subscriptions,Debit Card,Spotify,611.3,0
+17-02-2023,Subscriptions,Net Banking,Netflix,984.52,0
+17-02-2023,Shopping,Credit Card,Brought a Gift for Someone,99.4,6.29
+17-02-2023,Bills,UPI,Cable Bill,515.42,25.05
+17-02-2023,Subscriptions,Net Banking,Netflix,1.35,0
+17-02-2023,Bills,UPI,Internet Bill,483.05,3.6
+18-02-2023,Subscriptions,Cash,Amazon Prime,612.06,0
+18-02-2023,Healthcare,Credit Card,Hospital Bill,2264.09,108.04
+18-02-2023,Groceries,UPI,Pet Food,948.3,60.09
+19-02-2023,Shopping,Credit Card,Electronics,173.14,0.09
+19-02-2023,Subscriptions,Cash,Amazon Prime,830.81,0
+19-02-2023,Shopping,Net Banking,Home Goods,949.77,0
+19-02-2023,Bills,Cash,Water Bill,506.62,0
+19-02-2023,Miscellaneous,UPI,Miscellanoues Expense,922.61,46.71
+19-02-2023,Bills,Credit Card,Cable Bill,843.05,58.66
+19-02-2023,Miscellaneous,Cash,Miscellanoues Expense,467.69,0
+20-02-2023,Groceries,Credit Card,Household,169.33,14.78
+20-02-2023,Entertainment,UPI,Concert Tickets,214.22,7.26
+20-02-2023,Shopping,UPI,Electronics,461.2,11.59
+22-02-2023,Subscriptions,UPI,Netflix,141.97,0.47
+22-02-2023,Shopping,Net Banking,Beauty,827.92,0
+22-02-2023,Shopping,Debit Card,Home Goods,794.67,0
+22-02-2023,Bills,Cash,Water Bill,687.89,0
+23-02-2023,Bills,Credit Card,Gas Bill,257.35,0.74
+23-02-2023,Shopping,UPI,Beauty,550.3,23.78
+23-02-2023,Miscellaneous,Credit Card,Miscellanoues Expense,61.61,2.82
+23-02-2023,Groceries,UPI,Pet Food,734.27,45.57
+24-02-2023,Groceries,Credit Card,Pantry,418.93,28.1
+24-02-2023,Miscellaneous,Debit Card,Miscellanoues Expense,921.71,0
+24-02-2023,Groceries,Credit Card,Pantry,291.58,0.46
+25-02-2023,Miscellaneous,Credit Card,Miscellanoues Expense,943.23,17.62
+25-02-2023,Shopping,Net Banking,Clothing,760.17,0
+25-02-2023,Subscriptions,UPI,Netflix,55.04,4.7
+25-02-2023,Groceries,Cash,Snacks,993.94,0
+25-02-2023,Entertainment,Debit Card,Music,62.64,0
+26-02-2023,Bills,Debit Card,Internet Bill,798.58,0
+26-02-2023,Healthcare,UPI,Hospital Bill,3651.86,325.2
+27-02-2023,Bills,Debit Card,Insurance Bill,435.27,0
+27-02-2023,Subscriptions,Debit Card,Gym,595.81,0
+27-02-2023,Groceries,Debit Card,Pet Food,361.2,0
+27-02-2023,Groceries,UPI,Household,232.93,10.13
+27-02-2023,Entertainment,Cash,Sports,421.96,0
+27-02-2023,Miscellaneous,Cash,Miscellanoues Expense,387.14,0
+28-02-2023,Bills,Net Banking,Water Bill,82.76,0
+28-02-2023,Entertainment,Credit Card,Hobbies,585.44,54.15
+28-02-2023,Groceries,UPI,Pantry,660.68,27.92
+01-03-2023,Bills,Credit Card,Gas Bill,170.42,5.74
+01-03-2023,Entertainment,UPI,Hobbies,113.19,1.05
+01-03-2023,Miscellaneous,Debit Card,Miscellanoues Expense,966,0
+01-03-2023,Shopping,Net Banking,Beauty,688.43,0
+01-03-2023,Bills,Credit Card,Cable Bill,150.39,0.04
+02-03-2023,Entertainment,UPI,Hobbies,54.72,3.81
+02-03-2023,Bills,Debit Card,Electricity Bill,721.57,0
+02-03-2023,Entertainment,Debit Card,Hobbies,125.56,0
+02-03-2023,Bills,Cash,Water Bill,453.04,0
+03-03-2023,Groceries,Credit Card,Dairy,457.66,39.3
+03-03-2023,Miscellaneous,Net Banking,Miscellanoues Expense,940.66,0
+03-03-2023,Shopping,Debit Card,Home Goods,650.44,0
+03-03-2023,Bills,UPI,Internet Bill,580.23,55.05
+04-03-2023,Shopping,Debit Card,Brought a Gift for Someone,34.02,0
+04-03-2023,Miscellaneous,UPI,Miscellanoues Expense,539.23,38.23
+04-03-2023,Groceries,Net Banking,Bakery,181.51,0
+04-03-2023,Shopping,UPI,Clothing,274.72,15.89
+05-03-2023,Groceries,Cash,Fruits,284.35,0
+06-03-2023,Bills,Debit Card,Gas Bill,458.04,0
+06-03-2023,Shopping,Debit Card,Electronics,909.1,0
+06-03-2023,Bills,Credit Card,Mobile Bill,636.65,38.99
+06-03-2023,Shopping,Net Banking,Electronics,391.44,0
+07-03-2023,Groceries,Credit Card,Household,857.63,50.94
+07-03-2023,Healthcare,Cash,Medicine,4607.47,0
+07-03-2023,Subscriptions,Credit Card,Netflix,590.3,23.41
+08-03-2023,Groceries,Net Banking,Pet Food,927.4,0
+08-03-2023,Entertainment,Net Banking,Movie Tickets,490.55,0
+08-03-2023,Healthcare,Credit Card,Doctor's fee,2915.35,123.48
+09-03-2023,Subscriptions,UPI,Music,239.88,21.76
+10-03-2023,Subscriptions,UPI,Amazon Prime,176.2,1.33
+10-03-2023,Bills,Debit Card,Gas Bill,311.63,0
+11-03-2023,Groceries,Cash,Fruits,280.43,0
+11-03-2023,Entertainment,Cash,Hobbies,224.35,0
+11-03-2023,Subscriptions,Cash,Music,486.32,0
+11-03-2023,Groceries,Credit Card,Vegetables,913.35,20
+11-03-2023,Subscriptions,Debit Card,Music,321.27,0
+11-03-2023,Groceries,Cash,Fruits,353.55,0
+12-03-2023,Subscriptions,UPI,Music,483.86,24
+13-03-2023,Healthcare,Net Banking,Doctor's fee,4535.06,0
+13-03-2023,Entertainment,Net Banking,Movie Tickets,300.83,0
+13-03-2023,Subscriptions,Net Banking,Music,550.4,0
+13-03-2023,Subscriptions,Cash,Gym,459.2,0
+13-03-2023,Shopping,Credit Card,Clothing,489.54,31.24
+13-03-2023,Subscriptions,Cash,Netflix,976.01,0
+14-03-2023,Healthcare,UPI,Medicine,4751.27,384.32
+14-03-2023,Entertainment,Net Banking,Movie Tickets,26.29,0
+14-03-2023,Shopping,UPI,Electronics,33.11,0.61
+14-03-2023,Shopping,Cash,Clothing,324.89,0
+15-03-2023,Miscellaneous,Debit Card,Miscellanoues Expense,780.62,0
+15-03-2023,Groceries,Cash,Beverages,873.89,0
+15-03-2023,Shopping,Net Banking,Brought a Gift for Someone,634.18,0
+15-03-2023,Bills,Debit Card,Cable Bill,899.25,0
+16-03-2023,Shopping,UPI,Brought a Gift for Someone,676.69,50.03
+16-03-2023,Healthcare,Debit Card,Hospital Bill,2616.43,0
+16-03-2023,Entertainment,Net Banking,Gaming,967.8,0
+16-03-2023,Miscellaneous,Debit Card,Miscellanoues Expense,977.92,0
+17-03-2023,Subscriptions,Cash,Music,778.66,0
+17-03-2023,Subscriptions,Net Banking,Spotify,709.51,0
+17-03-2023,Entertainment,Debit Card,Sports,612.33,0
+18-03-2023,Subscriptions,Net Banking,Software,614.25,0
+18-03-2023,Groceries,Debit Card,Fruits,565.46,0
+18-03-2023,Bills,UPI,Electricity Bill,939.43,78.52
+19-03-2023,Groceries,Net Banking,Pantry,310.83,0
+20-03-2023,Subscriptions,UPI,Netflix,674.42,43.84
+20-03-2023,Shopping,UPI,Electronics,382.55,9.13
+20-03-2023,Miscellaneous,Net Banking,Miscellanoues Expense,756.11,0
+20-03-2023,Bills,Debit Card,Mobile Bill,697.85,0
+21-03-2023,Groceries,Credit Card,Bakery,998.63,51.51
+21-03-2023,Shopping,Net Banking,Clothing,730.82,0
+21-03-2023,Bills,Debit Card,Water Bill,988,0
+21-03-2023,Healthcare,Net Banking,Medicine,2357.76,0
+22-03-2023,Bills,Net Banking,Electricity Bill,119.59,0
+22-03-2023,Groceries,Debit Card,Snacks,86.38,0
+22-03-2023,Shopping,Net Banking,Home Goods,794.16,0
+23-03-2023,Entertainment,Net Banking,Music,31.91,0
+23-03-2023,Groceries,Debit Card,Vegetables,819.99,0
+23-03-2023,Subscriptions,Credit Card,Software,418.87,16.44
+23-03-2023,Groceries,Net Banking,Dairy,543.37,0
+24-03-2023,Groceries,Cash,Snacks,134.05,0
+24-03-2023,Entertainment,Credit Card,Concert Tickets,391.94,11.48
+24-03-2023,Entertainment,UPI,Sports,517.93,29.25
+24-03-2023,Subscriptions,Debit Card,Software,234.08,0
+24-03-2023,Healthcare,Credit Card,Hospital Bill,1202.78,10.63
+25-03-2023,Healthcare,Net Banking,Hospital Bill,2538.53,0
+25-03-2023,Miscellaneous,Cash,Miscellanoues Expense,740.07,0
+26-03-2023,Travel,Cash,Cab Fare,1569.57,0
+26-03-2023,Healthcare,Cash,Medicine,2681.57,0
+26-03-2023,Subscriptions,Cash,Spotify,920.79,0
+27-03-2023,Bills,Credit Card,Mobile Bill,535.7,11.5
+28-03-2023,Entertainment,Credit Card,Music,413.02,35.55
+28-03-2023,Shopping,UPI,Brought a Gift for Someone,230.79,2.96
+28-03-2023,Bills,Cash,Insurance Bill,966.6,0
+29-03-2023,Healthcare,Net Banking,Medicine,4690.7,0
+29-03-2023,Healthcare,UPI,Doctor's fee,3805.4,24.36
+30-03-2023,Healthcare,Credit Card,Doctor's fee,2847.68,21.89
+30-03-2023,Miscellaneous,Debit Card,Miscellanoues Expense,287.07,0
+30-03-2023,Subscriptions,Credit Card,Music,464.54,29.42
+30-03-2023,Entertainment,Net Banking,Movie Tickets,819.09,0
+31-03-2023,Shopping,Cash,Electronics,59.24,0
+31-03-2023,Miscellaneous,UPI,Miscellanoues Expense,146.48,12.44
+01-04-2023,Bills,UPI,Cable Bill,862.15,63.42
+01-04-2023,Healthcare,Credit Card,Medicine,2827.37,96.22
+01-04-2023,Groceries,Cash,Household,321.41,0
+01-04-2023,Miscellaneous,Debit Card,Miscellanoues Expense,836.7,0
+01-04-2023,Shopping,Debit Card,Brought a Gift for Someone,474.97,0
+01-04-2023,Entertainment,Credit Card,Hobbies,365.55,19.67
+02-04-2023,Bills,Cash,Cable Bill,328.77,0
+02-04-2023,Miscellaneous,UPI,Miscellanoues Expense,851.85,24.81
+02-04-2023,Healthcare,Cash,Hospital Bill,4223.86,0
+02-04-2023,Entertainment,Cash,Concert Tickets,843.97,0
+02-04-2023,Shopping,Credit Card,Home Goods,53.24,2.89
+02-04-2023,Healthcare,Debit Card,Doctor's fee,2880.86,0
+03-04-2023,Subscriptions,Net Banking,Gym,812.78,0
+03-04-2023,Healthcare,Cash,Medicine,3372.19,0
+03-04-2023,Bills,Net Banking,Water Bill,786.35,0
+03-04-2023,Entertainment,Debit Card,Music,752.65,0
+03-04-2023,Shopping,UPI,Electronics,761.04,27.08
+04-04-2023,Subscriptions,Debit Card,Amazon Prime,916.12,0
+05-04-2023,Bills,UPI,Cable Bill,336.39,19.81
+05-04-2023,Groceries,Cash,Fruits,623.79,0
+05-04-2023,Entertainment,Cash,Concert Tickets,483.29,0
+06-04-2023,Subscriptions,Net Banking,Gym,71.76,0
+08-04-2023,Miscellaneous,UPI,Miscellanoues Expense,837.21,29.68
+08-04-2023,Shopping,Net Banking,Clothing,329.31,0
+08-04-2023,Shopping,Credit Card,Electronics,438.99,12.59
+08-04-2023,Bills,UPI,Gas Bill,496.58,47.85
+08-04-2023,Subscriptions,Net Banking,Software,191.6,0
+08-04-2023,Entertainment,UPI,Music,855,46.2
+09-04-2023,Bills,UPI,Insurance Bill,323.39,24.61
+09-04-2023,Entertainment,Cash,Gaming,677.47,0
+09-04-2023,Shopping,Cash,Electronics,236.17,0
+09-04-2023,Groceries,UPI,Household,686.59,8.1
+09-04-2023,Entertainment,UPI,Music,755.17,33
+10-04-2023,Entertainment,Credit Card,Gaming,548.86,25.84
+10-04-2023,Bills,Credit Card,Cable Bill,212.8,15.1
+10-04-2023,Entertainment,Debit Card,Gaming,347.23,0
+10-04-2023,Healthcare,Net Banking,Doctor's fee,3373.61,0
+11-04-2023,Miscellaneous,UPI,Miscellanoues Expense,765.78,54.98
+11-04-2023,Healthcare,UPI,Doctor's fee,960.49,40.09
+11-04-2023,Groceries,UPI,Bakery,786.3,70.05
+12-04-2023,Subscriptions,Credit Card,Software,452.45,42.59
+12-04-2023,Groceries,Cash,Pantry,158.69,0
+12-04-2023,Bills,Debit Card,Internet Bill,385.84,0
+13-04-2023,Shopping,Debit Card,Brought a Gift for Someone,669.16,0
+13-04-2023,Shopping,Net Banking,Brought a Gift for Someone,633.76,0
+13-04-2023,Entertainment,Net Banking,Sports,796.52,0
+14-04-2023,Bills,UPI,Cable Bill,910.3,46.99
+14-04-2023,Subscriptions,Credit Card,Music,542.43,46.5
+14-04-2023,Bills,Credit Card,Mobile Bill,632.26,15.45
+15-04-2023,Groceries,UPI,Pantry,822.09,46.17
+15-04-2023,Bills,Net Banking,Water Bill,609.03,0
+15-04-2023,Shopping,UPI,Electronics,28.61,0.49
+16-04-2023,Miscellaneous,Debit Card,Miscellanoues Expense,791.14,0
+17-04-2023,Bills,Net Banking,Internet Bill,296.13,0
+17-04-2023,Healthcare,Net Banking,Hospital Bill,411.84,0
+17-04-2023,Entertainment,UPI,Movie Tickets,612.45,23.51
+17-04-2023,Bills,Debit Card,Internet Bill,419.61,0
+17-04-2023,Entertainment,Net Banking,Gaming,547.85,0
+18-04-2023,Shopping,Credit Card,Brought a Gift for Someone,820.48,52.05
+19-04-2023,Miscellaneous,UPI,Miscellanoues Expense,40.42,2.42
+19-04-2023,Entertainment,Credit Card,Music,383.25,4.26
+19-04-2023,Healthcare,Cash,Hospital Bill,4494.81,0
+20-04-2023,Bills,Net Banking,Water Bill,203.06,0
+20-04-2023,Bills,Net Banking,Gas Bill,977.42,0
+20-04-2023,Bills,Credit Card,Electricity Bill,926.58,58.2
+20-04-2023,Subscriptions,Credit Card,Software,918.75,41.71
+20-04-2023,Entertainment,UPI,Music,190.1,8.7
+20-04-2023,Bills,UPI,Cable Bill,107.11,9.33
+21-04-2023,Entertainment,Credit Card,Music,91.26,8.06
+21-04-2023,Shopping,Net Banking,Brought a Gift for Someone,589.48,0
+22-04-2023,Shopping,UPI,Clothing,395.16,24.23
+22-04-2023,Shopping,Debit Card,Clothing,478.36,0
+22-04-2023,Subscriptions,Credit Card,Spotify,462.51,34.77
+22-04-2023,Healthcare,Net Banking,Hospital Bill,3392.98,0
+22-04-2023,Miscellaneous,UPI,Miscellanoues Expense,880.36,12.45
+23-04-2023,Healthcare,Debit Card,Hospital Bill,3532.55,0
+23-04-2023,Miscellaneous,Net Banking,Miscellanoues Expense,331.76,0
+23-04-2023,Entertainment,Cash,Concert Tickets,266.04,0
+23-04-2023,Groceries,Debit Card,Pantry,821.01,0
+24-04-2023,Entertainment,Cash,Movie Tickets,46.9,0
+24-04-2023,Shopping,Cash,Brought a Gift for Someone,272.11,0
+24-04-2023,Miscellaneous,Debit Card,Miscellanoues Expense,498.83,0
+24-04-2023,Subscriptions,Debit Card,Spotify,326.69,0
+25-04-2023,Miscellaneous,Net Banking,Miscellanoues Expense,907.3,0
+25-04-2023,Miscellaneous,Debit Card,Miscellanoues Expense,730.28,0
+25-04-2023,Travel,Debit Card,Flight ticket,2973.49,0
+25-04-2023,Groceries,UPI,Meat,286.38,15.81
+25-04-2023,Shopping,Debit Card,Home Goods,651.36,0
+25-04-2023,Healthcare,Net Banking,Hospital Bill,3667.23,0
+25-04-2023,Healthcare,Credit Card,Doctor's fee,4724.14,44.6
+25-04-2023,Bills,Debit Card,Mobile Bill,158.99,0
+26-04-2023,Miscellaneous,Credit Card,Miscellanoues Expense,582.5,45.22
+27-04-2023,Shopping,Net Banking,Electronics,285.05,0
+27-04-2023,Healthcare,Debit Card,Doctor's fee,3723.42,0
+28-04-2023,Entertainment,Credit Card,Music,679.04,31.08
+28-04-2023,Entertainment,Net Banking,Sports,591.49,0
+29-04-2023,Healthcare,Credit Card,Medicine,4626.79,68.79
+30-04-2023,Shopping,Net Banking,Brought a Gift for Someone,550.44,0
+30-04-2023,Bills,Net Banking,Cable Bill,410.27,0
+30-04-2023,Subscriptions,Credit Card,Netflix,412.92,15.48
+01-05-2023,Subscriptions,Cash,Spotify,797.07,0
+01-05-2023,Bills,Debit Card,Insurance Bill,988.84,0
+01-05-2023,Healthcare,Cash,Hospital Bill,3390.37,0
+01-05-2023,Subscriptions,Debit Card,Software,451.74,0
+01-05-2023,Travel,Credit Card,Cab Fare,1325.48,97.65
+01-05-2023,Miscellaneous,UPI,Miscellanoues Expense,994.6,65.32
+01-05-2023,Groceries,Debit Card,Pantry,433.53,0
+02-05-2023,Healthcare,UPI,Doctor's fee,3740.95,78
+02-05-2023,Travel,UPI,Hotel,3623.01,193.03
+02-05-2023,Groceries,Cash,Beverages,402.75,0
+02-05-2023,Subscriptions,Credit Card,Spotify,19.24,1.48
+03-05-2023,Miscellaneous,Cash,Miscellanoues Expense,463.92,0
+03-05-2023,Subscriptions,Net Banking,Gym,220.74,0
+04-05-2023,Groceries,Net Banking,Bakery,754.48,0
+05-05-2023,Subscriptions,Net Banking,Software,111.88,0
+05-05-2023,Shopping,UPI,Electronics,845.56,36.43
+05-05-2023,Bills,Debit Card,Internet Bill,58.11,0
+05-05-2023,Travel,UPI,Flight ticket,2856.2,79.38
+06-05-2023,Healthcare,Cash,Medicine,2215.8,0
+06-05-2023,Healthcare,UPI,Doctor's fee,341.14,12.35
+06-05-2023,Travel,Net Banking,Flight ticket,3612.42,0
+06-05-2023,Healthcare,Net Banking,Medicine,1441.19,0
+06-05-2023,Bills,Credit Card,Cable Bill,484.8,43.45
+07-05-2023,Entertainment,Cash,Hobbies,826.27,0
+07-05-2023,Groceries,Cash,Dairy,538.83,0
+08-05-2023,Miscellaneous,UPI,Miscellanoues Expense,686.42,17.34
+08-05-2023,Groceries,Cash,Household,92.45,0
+08-05-2023,Bills,Net Banking,Mobile Bill,312.58,0
+09-05-2023,Miscellaneous,Cash,Miscellanoues Expense,613.36,0
+09-05-2023,Entertainment,Debit Card,Concert Tickets,290.58,0
+10-05-2023,Shopping,Cash,Clothing,209.16,0
+10-05-2023,Entertainment,UPI,Gaming,890.06,7.53
+10-05-2023,Subscriptions,Cash,Spotify,614.12,0
+11-05-2023,Groceries,Net Banking,Dairy,678.69,0
+11-05-2023,Miscellaneous,UPI,Miscellanoues Expense,575.18,15.16
+12-05-2023,Entertainment,Debit Card,Sports,898.64,0
+13-05-2023,Entertainment,UPI,Movie Tickets,331.16,15.03
+13-05-2023,Groceries,Credit Card,Pet Food,675.44,7.14
+13-05-2023,Groceries,UPI,Meat,137.81,2.83
+13-05-2023,Entertainment,Debit Card,Music,938.17,0
+14-05-2023,Healthcare,Credit Card,Doctor's fee,1695.5,99.16
+15-05-2023,Healthcare,Credit Card,Hospital Bill,3292.5,187.88
+15-05-2023,Healthcare,Debit Card,Hospital Bill,1522.66,0
+15-05-2023,Healthcare,Credit Card,Medicine,4851.47,175.87
+16-05-2023,Travel,UPI,Flight ticket,2028.18,59.39
+16-05-2023,Subscriptions,Debit Card,Amazon Prime,469.69,0
+16-05-2023,Entertainment,UPI,Music,506,3.42
+16-05-2023,Bills,Credit Card,Mobile Bill,386.07,26.8
+17-05-2023,Travel,Cash,Bus ticket,4782.1,0
+17-05-2023,Travel,Net Banking,Bus ticket,4826.92,0
+18-05-2023,Subscriptions,UPI,Gym,251.93,19.97
+18-05-2023,Subscriptions,Debit Card,Music,955.42,0
+18-05-2023,Shopping,Net Banking,Brought a Gift for Someone,103.38,0
+19-05-2023,Entertainment,Debit Card,Music,382.91,0
+19-05-2023,Healthcare,Debit Card,Hospital Bill,2285.63,0
+19-05-2023,Bills,Cash,Internet Bill,397.76,0
+19-05-2023,Bills,Cash,Gas Bill,498.28,0
+20-05-2023,Entertainment,UPI,Hobbies,23.7,0.05
+20-05-2023,Shopping,Credit Card,Electronics,190.02,16.77
+21-05-2023,Travel,Credit Card,Flight ticket,4061.7,260.86
+21-05-2023,Bills,Net Banking,Cable Bill,489.64,0
+21-05-2023,Subscriptions,Net Banking,Spotify,88.45,0
+22-05-2023,Subscriptions,UPI,Gym,511.71,16.95
+22-05-2023,Subscriptions,Debit Card,Amazon Prime,101.84,0
+22-05-2023,Miscellaneous,Debit Card,Miscellanoues Expense,613.2,0
+23-05-2023,Subscriptions,Debit Card,Software,579.04,0
+23-05-2023,Bills,Credit Card,Gas Bill,283.79,28.23
+23-05-2023,Healthcare,Debit Card,Hospital Bill,4392.95,0
+24-05-2023,Shopping,Net Banking,Electronics,807.3,0
+25-05-2023,Subscriptions,Debit Card,Amazon Prime,518.26,0
+25-05-2023,Entertainment,Credit Card,Concert Tickets,198.43,17.71
+25-05-2023,Subscriptions,Cash,Music,718.37,0
+25-05-2023,Groceries,Cash,Fruits,497.06,0
+25-05-2023,Travel,Net Banking,Flight ticket,3893.75,0
+26-05-2023,Healthcare,Credit Card,Doctor's fee,1281.93,11.59
+26-05-2023,Miscellaneous,Credit Card,Miscellanoues Expense,390.47,34.04
+26-05-2023,Entertainment,Cash,Music,266.75,0
+26-05-2023,Travel,Debit Card,Hotel,640.7,0
+26-05-2023,Entertainment,Net Banking,Gaming,427.56,0
+26-05-2023,Bills,Credit Card,Mobile Bill,891.45,42.97
+26-05-2023,Entertainment,Net Banking,Gaming,389.85,0
+26-05-2023,Miscellaneous,Debit Card,Miscellanoues Expense,3.98,0
+26-05-2023,Subscriptions,Credit Card,Music,599.71,10.79
+26-05-2023,Shopping,Net Banking,Clothing,246.47,0
+26-05-2023,Travel,Credit Card,Fuel Expense,4675.14,136.18
+27-05-2023,Miscellaneous,Credit Card,Miscellanoues Expense,314.09,27.31
+27-05-2023,Healthcare,Cash,Medicine,2051.46,0
+28-05-2023,Bills,Credit Card,Electricity Bill,516.94,24.02
+29-05-2023,Entertainment,Credit Card,Hobbies,495.27,5.72
+29-05-2023,Travel,UPI,Cab Fare,2405.37,192.62
+29-05-2023,Shopping,Cash,Clothing,746.41,0
+29-05-2023,Travel,UPI,Fuel Expense,1739.23,28.46
+29-05-2023,Groceries,Net Banking,Meat,166.88,0
+30-05-2023,Groceries,UPI,Meat,352.94,9.99
+30-05-2023,Entertainment,Cash,Movie Tickets,726.68,0
+30-05-2023,Groceries,Net Banking,Meat,396.21,0
+31-05-2023,Healthcare,Credit Card,Hospital Bill,2241.54,145.7
+31-05-2023,Bills,Debit Card,Gas Bill,186.51,0
+31-05-2023,Subscriptions,Cash,Software,809.38,0
+31-05-2023,Shopping,Net Banking,Electronics,398.49,0
+01-06-2023,Healthcare,Credit Card,Medicine,1188.97,46.79
+02-06-2023,Healthcare,Cash,Hospital Bill,1155.37,0
+03-06-2023,Travel,Debit Card,Train ticket,254.74,0
+03-06-2023,Groceries,Net Banking,Beverages,555.5,0
+03-06-2023,Bills,Net Banking,Insurance Bill,11.45,0
+03-06-2023,Groceries,Credit Card,Dairy,654.16,47.31
+03-06-2023,Shopping,Credit Card,Home Goods,489.33,38.21
+04-06-2023,Groceries,Credit Card,Pet Food,990.03,21.05
+04-06-2023,Groceries,UPI,Fruits,141.99,3.04
+04-06-2023,Healthcare,Cash,Hospital Bill,4447.73,0
+04-06-2023,Groceries,Credit Card,Vegetables,20.77,1.92
+04-06-2023,Entertainment,Cash,Music,563.87,0
+04-06-2023,Subscriptions,Cash,Spotify,35.04,0
+04-06-2023,Subscriptions,Cash,Music,992.32,0
+05-06-2023,Subscriptions,UPI,Amazon Prime,574.91,19.72
+05-06-2023,Shopping,Debit Card,Clothing,641.6,0
+06-06-2023,Shopping,Credit Card,Home Goods,75.24,2.11
+06-06-2023,Miscellaneous,Net Banking,Miscellanoues Expense,532.21,0
+07-06-2023,Travel,UPI,Train ticket,1302.64,128.82
+07-06-2023,Shopping,Net Banking,Clothing,817.45,0
+07-06-2023,Subscriptions,UPI,Music,660.91,12.38
+07-06-2023,Bills,Cash,Internet Bill,667.52,0
+08-06-2023,Shopping,Debit Card,Clothing,26.44,0
+08-06-2023,Miscellaneous,Debit Card,Miscellanoues Expense,181.57,0
+09-06-2023,Groceries,UPI,Pet Food,301.94,25.96
+09-06-2023,Miscellaneous,UPI,Miscellanoues Expense,693.82,63.11
+10-06-2023,Entertainment,Debit Card,Concert Tickets,152.81,0
+10-06-2023,Healthcare,Debit Card,Doctor's fee,892.25,0
+10-06-2023,Shopping,UPI,Brought a Gift for Someone,892.27,21.32
+10-06-2023,Travel,Net Banking,Bus ticket,1448.98,0
+10-06-2023,Subscriptions,Debit Card,Software,684.26,0
+11-06-2023,Miscellaneous,UPI,Miscellanoues Expense,520.29,48.11
+11-06-2023,Shopping,Net Banking,Electronics,633.7,0
+11-06-2023,Bills,Cash,Internet Bill,382.45,0
+12-06-2023,Groceries,Credit Card,Household,654.18,49.98
+12-06-2023,Subscriptions,Credit Card,Software,30.59,1.43
+12-06-2023,Healthcare,Debit Card,Medicine,546.86,0
+13-06-2023,Entertainment,UPI,Gaming,101.95,1.82
+13-06-2023,Shopping,Credit Card,Electronics,194.36,6.25
+13-06-2023,Miscellaneous,Cash,Miscellanoues Expense,779.19,0
+13-06-2023,Travel,Cash,Cab Fare,2160.56,0
+14-06-2023,Healthcare,Net Banking,Hospital Bill,787.58,0
+14-06-2023,Shopping,Debit Card,Home Goods,827.36,0
+15-06-2023,Subscriptions,Debit Card,Music,164.01,0
+15-06-2023,Healthcare,Cash,Medicine,2237.85,0
+15-06-2023,Travel,Credit Card,Fuel Expense,2240.78,76.21
+15-06-2023,Bills,Net Banking,Internet Bill,951.45,0
+16-06-2023,Entertainment,Credit Card,Concert Tickets,385.9,38.21
+16-06-2023,Travel,Cash,Bus ticket,1052.23,0
+16-06-2023,Travel,Net Banking,Cab Fare,1933.78,0
+17-06-2023,Entertainment,Cash,Concert Tickets,175.87,0
+17-06-2023,Groceries,Credit Card,Meat,159.97,15.39
+17-06-2023,Healthcare,Cash,Hospital Bill,1440.8,0
+18-06-2023,Shopping,Cash,Home Goods,463.02,0
+18-06-2023,Subscriptions,Debit Card,Spotify,5.55,0
+18-06-2023,Travel,Cash,Bus ticket,1022.03,0
+19-06-2023,Subscriptions,Debit Card,Gym,81.5,0
+19-06-2023,Bills,Net Banking,Mobile Bill,36.52,0
+19-06-2023,Groceries,Net Banking,Pet Food,959.34,0
+19-06-2023,Subscriptions,Credit Card,Music,841.96,33.36
+20-06-2023,Groceries,Debit Card,Meat,368.02,0
+20-06-2023,Travel,Debit Card,Cab Fare,688.58,0
+20-06-2023,Travel,Net Banking,Hotel,2451.96,0
+20-06-2023,Entertainment,Debit Card,Gaming,456.85,0
+20-06-2023,Bills,Credit Card,Electricity Bill,306.33,30.32
+20-06-2023,Entertainment,Cash,Movie Tickets,265.2,0
+21-06-2023,Travel,UPI,Cab Fare,714.61,43.38
+21-06-2023,Shopping,Cash,Brought a Gift for Someone,279.96,0
+21-06-2023,Subscriptions,Net Banking,Spotify,710.84,0
+21-06-2023,Travel,Credit Card,Fuel Expense,4444.83,44.88
+21-06-2023,Miscellaneous,Cash,Miscellanoues Expense,20.49,0
+22-06-2023,Shopping,Cash,Electronics,42.86,0
+23-06-2023,Shopping,UPI,Electronics,865.59,48.77
+23-06-2023,Healthcare,Cash,Hospital Bill,1441.14,0
+23-06-2023,Entertainment,UPI,Concert Tickets,88.75,1.17
+23-06-2023,Shopping,UPI,Clothing,221.7,4.13
+24-06-2023,Subscriptions,Debit Card,Amazon Prime,441.7,0
+24-06-2023,Healthcare,Cash,Hospital Bill,3660.83,0
+24-06-2023,Miscellaneous,Cash,Miscellanoues Expense,296.92,0
+24-06-2023,Healthcare,Cash,Medicine,3873.2,0
+24-06-2023,Entertainment,Credit Card,Hobbies,635.61,10.01
+25-06-2023,Bills,UPI,Electricity Bill,832.49,34.16
+26-06-2023,Bills,Debit Card,Electricity Bill,900.77,0
+26-06-2023,Entertainment,Cash,Hobbies,633.2,0
+26-06-2023,Shopping,UPI,Electronics,716.54,22.09
+27-06-2023,Subscriptions,Credit Card,Music,527.72,43.33
+27-06-2023,Shopping,UPI,Beauty,925.29,5.59
+27-06-2023,Entertainment,Net Banking,Hobbies,426.47,0
+27-06-2023,Subscriptions,UPI,Spotify,653.1,21.77
+27-06-2023,Healthcare,Credit Card,Medicine,3187.12,210.48
+27-06-2023,Groceries,Debit Card,Vegetables,912.63,0
+28-06-2023,Travel,UPI,Bus ticket,2976.96,191.5
+28-06-2023,Groceries,Net Banking,Dairy,201.26,0
+28-06-2023,Healthcare,Cash,Medicine,3010.27,0
+28-06-2023,Healthcare,Net Banking,Hospital Bill,2798.29,0
+29-06-2023,Shopping,Net Banking,Electronics,508.91,0
+29-06-2023,Miscellaneous,Debit Card,Miscellanoues Expense,925.53,0
+29-06-2023,Healthcare,Cash,Doctor's fee,1947.52,0
+30-06-2023,Miscellaneous,Credit Card,Miscellanoues Expense,998.01,23.14
+30-06-2023,Groceries,Debit Card,Household,211.87,0
+01-07-2023,Bills,UPI,Insurance Bill,286.82,14.65
+01-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,110.26,0
+01-07-2023,Entertainment,Debit Card,Movie Tickets,414.92,0
+02-07-2023,Miscellaneous,UPI,Miscellanoues Expense,644.62,53.21
+03-07-2023,Shopping,Credit Card,Beauty,1.7,0.16
+03-07-2023,Healthcare,Cash,Medicine,4150.7,0
+03-07-2023,Bills,Debit Card,Internet Bill,217.84,0
+04-07-2023,Healthcare,Cash,Doctor's fee,3612.38,0
+04-07-2023,Subscriptions,Net Banking,Spotify,918.91,0
+04-07-2023,Miscellaneous,Net Banking,Miscellanoues Expense,707.25,0
+04-07-2023,Education,Cash,Tuition Fees,28,0
+04-07-2023,Bills,Net Banking,Water Bill,711.25,0
+05-07-2023,Entertainment,Credit Card,Gaming,756.04,3.96
+05-07-2023,Miscellaneous,Cash,Miscellanoues Expense,940.31,0
+06-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,978.09,0
+07-07-2023,Shopping,Credit Card,Beauty,209.36,10.94
+07-07-2023,Entertainment,Credit Card,Concert Tickets,172.55,5.82
+07-07-2023,Subscriptions,Cash,Music,356.96,0
+07-07-2023,Bills,UPI,Cable Bill,701.09,3.76
+08-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,560.91,0
+08-07-2023,Groceries,UPI,Snacks,685.17,43.95
+09-07-2023,Shopping,Credit Card,Home Goods,689.06,0.55
+09-07-2023,Education,Debit Card,School fee,421.81,0
+10-07-2023,Healthcare,Net Banking,Medicine,3159.63,0
+10-07-2023,Entertainment,UPI,Hobbies,767.08,17.03
+10-07-2023,Groceries,Net Banking,Pantry,626.21,0
+10-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,24.76,0
+11-07-2023,Miscellaneous,Credit Card,Miscellanoues Expense,437.14,28.47
+11-07-2023,Subscriptions,UPI,Gym,546.77,48.33
+12-07-2023,Shopping,Net Banking,Clothing,924.3,0
+12-07-2023,Healthcare,Debit Card,Doctor's fee,4634.97,0
+12-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,537.55,0
+12-07-2023,Shopping,Cash,Clothing,91.65,0
+12-07-2023,Subscriptions,Net Banking,Music,230.01,0
+13-07-2023,Bills,Cash,Mobile Bill,654.59,0
+13-07-2023,Bills,UPI,Electricity Bill,145.9,14.45
+13-07-2023,Healthcare,Debit Card,Doctor's fee,3573.49,0
+13-07-2023,Subscriptions,Credit Card,Gym,912.81,24.92
+14-07-2023,Education,Credit Card,School fee,535.82,48.68
+14-07-2023,Subscriptions,Debit Card,Gym,100.38,0
+14-07-2023,Education,Debit Card,Stationary Stuff,332.63,0
+14-07-2023,Subscriptions,Debit Card,Netflix,377.3,0
+16-07-2023,Shopping,Cash,Electronics,359.65,0
+16-07-2023,Shopping,Cash,Beauty,766.4,0
+16-07-2023,Healthcare,Debit Card,Medicine,1037.99,0
+17-07-2023,Shopping,Credit Card,Beauty,178.81,2.47
+17-07-2023,Education,Credit Card,Books,368.27,9.76
+17-07-2023,Groceries,UPI,Beverages,665.94,56.78
+18-07-2023,Shopping,Cash,Clothing,371.5,0
+18-07-2023,Shopping,Debit Card,Brought a Gift for Someone,344.25,0
+18-07-2023,Healthcare,Credit Card,Doctor's fee,857.14,49.1
+18-07-2023,Subscriptions,UPI,Music,739.23,19.12
+19-07-2023,Bills,Debit Card,Cable Bill,165.91,0
+20-07-2023,Miscellaneous,Cash,Miscellanoues Expense,228.68,0
+20-07-2023,Groceries,UPI,Meat,838.97,13.32
+20-07-2023,Shopping,Debit Card,Beauty,739.66,0
+20-07-2023,Miscellaneous,Credit Card,Miscellanoues Expense,472.69,32.78
+20-07-2023,Healthcare,Cash,Medicine,903.76,0
+21-07-2023,Entertainment,Cash,Gaming,353.64,0
+21-07-2023,Entertainment,UPI,Gaming,416.38,18.74
+21-07-2023,Bills,Net Banking,Cable Bill,704.48,0
+21-07-2023,Miscellaneous,Net Banking,Miscellanoues Expense,836.99,0
+22-07-2023,Education,Cash,Stationary Stuff,598.6,0
+22-07-2023,Groceries,Cash,Vegetables,294.06,0
+22-07-2023,Subscriptions,Credit Card,Software,51.23,4.63
+22-07-2023,Shopping,Net Banking,Clothing,445.33,0
+22-07-2023,Miscellaneous,UPI,Miscellanoues Expense,602.12,45.14
+23-07-2023,Miscellaneous,Cash,Miscellanoues Expense,876.43,0
+23-07-2023,Shopping,Net Banking,Beauty,721.15,0
+24-07-2023,Subscriptions,Cash,Music,366.05,0
+24-07-2023,Bills,Net Banking,Cable Bill,486.74,0
+24-07-2023,Education,UPI,Online course fee,207.34,14.56
+24-07-2023,Miscellaneous,Debit Card,Miscellanoues Expense,531.94,0
+24-07-2023,Groceries,Debit Card,Bakery,527.91,0
+25-07-2023,Subscriptions,Net Banking,Music,565.13,0
+25-07-2023,Subscriptions,UPI,Music,176.99,8.32
+26-07-2023,Shopping,Net Banking,Electronics,359.27,0
+26-07-2023,Education,Cash,School fee,54.29,0
+26-07-2023,Education,Net Banking,Online course fee,168.71,0
+27-07-2023,Healthcare,UPI,Doctor's fee,3099.02,91.64
+27-07-2023,Shopping,UPI,Home Goods,237.47,12.98
+28-07-2023,Bills,Credit Card,Electricity Bill,923.83,59.33
+28-07-2023,Entertainment,UPI,Gaming,752.78,23.81
+28-07-2023,Bills,Net Banking,Cable Bill,193.06,0
+28-07-2023,Education,Cash,University fee,757.75,0
+29-07-2023,Groceries,Net Banking,Meat,19.73,0
+29-07-2023,Healthcare,Credit Card,Doctor's fee,1873.59,6.02
+29-07-2023,Bills,Cash,Gas Bill,556.37,0
+29-07-2023,Miscellaneous,Cash,Miscellanoues Expense,539.83,0
+29-07-2023,Education,Cash,Tuition Fees,573.87,0
+29-07-2023,Entertainment,UPI,Hobbies,804.43,75.28
+30-07-2023,Education,Net Banking,University fee,147.48,0
+30-07-2023,Bills,Net Banking,Gas Bill,401.04,0
+30-07-2023,Entertainment,Net Banking,Music,801.73,0
+31-07-2023,Education,Net Banking,Tuition Fees,805.94,0
+31-07-2023,Miscellaneous,Net Banking,Miscellanoues Expense,70.31,0
+31-07-2023,Healthcare,Credit Card,Hospital Bill,291.47,11.48
+31-07-2023,Miscellaneous,Credit Card,Miscellanoues Expense,506.45,0.35
+31-07-2023,Entertainment,Cash,Movie Tickets,213.55,0
+31-07-2023,Healthcare,Net Banking,Hospital Bill,1678.97,0
+01-08-2023,Education,Credit Card,Stationary Stuff,723.42,65.36
+01-08-2023,Healthcare,Net Banking,Medicine,2129.12,0
+01-08-2023,Healthcare,Net Banking,Hospital Bill,3708.46,0
+01-08-2023,Shopping,Net Banking,Electronics,503.91,0
+01-08-2023,Subscriptions,UPI,Spotify,859.7,1.36
+02-08-2023,Education,Net Banking,Books,841.56,0
+03-08-2023,Miscellaneous,Debit Card,Miscellanoues Expense,753.74,0
+03-08-2023,Miscellaneous,Credit Card,Miscellanoues Expense,700.52,64.09
+03-08-2023,Groceries,Cash,Household,148.71,0
+04-08-2023,Entertainment,Credit Card,Music,472.91,24.14
+04-08-2023,Healthcare,Cash,Hospital Bill,1569.67,0
+04-08-2023,Miscellaneous,Credit Card,Miscellanoues Expense,934.82,24.08
+05-08-2023,Entertainment,Credit Card,Gaming,945.4,80.66
+05-08-2023,Subscriptions,Cash,Amazon Prime,362.05,0
+05-08-2023,Education,UPI,Online course fee,592.81,21.38
+05-08-2023,Bills,Net Banking,Gas Bill,481.24,0
+05-08-2023,Education,Debit Card,Tuition Fees,551.16,0
+05-08-2023,Groceries,UPI,Household,494.05,11.71
+06-08-2023,Entertainment,Net Banking,Movie Tickets,135.59,0
+06-08-2023,Entertainment,UPI,Sports,404.37,30.88
+06-08-2023,Groceries,Cash,Pantry,184.89,0
+07-08-2023,Miscellaneous,Cash,Miscellanoues Expense,150.83,0
+07-08-2023,Entertainment,UPI,Hobbies,909.44,36.12
+08-08-2023,Groceries,Debit Card,Household,839.58,0
+09-08-2023,Entertainment,Credit Card,Hobbies,239.46,9.49
+09-08-2023,Shopping,Cash,Home Goods,720.48,0
+10-08-2023,Shopping,Debit Card,Clothing,335.25,0
+10-08-2023,Bills,Credit Card,Cable Bill,912.64,83.72
+10-08-2023,Groceries,UPI,Fruits,460.54,13.41
+10-08-2023,Subscriptions,UPI,Amazon Prime,577.3,7.62
+11-08-2023,Groceries,UPI,Household,491.52,40.2
+11-08-2023,Education,Cash,School fee,427.65,0
+11-08-2023,Bills,Debit Card,Electricity Bill,336.4,0
+11-08-2023,Shopping,Net Banking,Electronics,38.57,0
+12-08-2023,Shopping,Net Banking,Clothing,156.56,0
+12-08-2023,Healthcare,Cash,Hospital Bill,2771.38,0
+12-08-2023,Education,Cash,Tuition Fees,115.34,0
+13-08-2023,Subscriptions,Debit Card,Gym,134.03,0
+13-08-2023,Shopping,Debit Card,Brought a Gift for Someone,103.94,0
+14-08-2023,Shopping,Debit Card,Electronics,940.26,0
+14-08-2023,Groceries,Credit Card,Pantry,526.13,8.07
+15-08-2023,Healthcare,Cash,Medicine,3620.97,0
+15-08-2023,Shopping,Credit Card,Brought a Gift for Someone,93.31,8.03
+15-08-2023,Subscriptions,Cash,Software,693.83,0
+15-08-2023,Education,Net Banking,University fee,382.17,0
+15-08-2023,Bills,Credit Card,Water Bill,249.22,0.45
+15-08-2023,Miscellaneous,Net Banking,Miscellanoues Expense,730,0
+16-08-2023,Subscriptions,Credit Card,Amazon Prime,314.49,26.27
+17-08-2023,Groceries,Debit Card,Pantry,353.12,0
+17-08-2023,Shopping,UPI,Home Goods,236.19,19.17
+18-08-2023,Subscriptions,Cash,Spotify,208.86,0
+18-08-2023,Entertainment,Net Banking,Music,602.7,0
+18-08-2023,Subscriptions,UPI,Gym,556.74,13
+18-08-2023,Shopping,Credit Card,Home Goods,328.23,27.9
+18-08-2023,Miscellaneous,Net Banking,Miscellanoues Expense,743.55,0
+19-08-2023,Healthcare,UPI,Hospital Bill,1233.47,62.59
+19-08-2023,Groceries,Debit Card,Fruits,478.95,0
+19-08-2023,Entertainment,Net Banking,Gaming,110.32,0
+19-08-2023,Entertainment,Debit Card,Music,375.06,0
+19-08-2023,Education,Net Banking,School fee,322.51,0
+20-08-2023,Healthcare,Debit Card,Medicine,1724.56,0
+20-08-2023,Groceries,Net Banking,Pantry,829.38,0
+20-08-2023,Shopping,Debit Card,Clothing,840.34,0
+20-08-2023,Education,Credit Card,Books,748.65,51.77
+21-08-2023,Shopping,Credit Card,Clothing,217.54,18.38
+21-08-2023,Miscellaneous,Net Banking,Miscellanoues Expense,394.66,0
+22-08-2023,Bills,Debit Card,Gas Bill,298.66,0
+22-08-2023,Healthcare,Net Banking,Medicine,1025.38,0
+22-08-2023,Healthcare,Net Banking,Hospital Bill,338.41,0
+23-08-2023,Healthcare,Cash,Hospital Bill,3920.04,0
+23-08-2023,Education,Credit Card,Online course fee,429.76,10.51
+23-08-2023,Subscriptions,Credit Card,Spotify,539.92,30.76
+23-08-2023,Miscellaneous,Credit Card,Miscellanoues Expense,395.46,38.45
+24-08-2023,Shopping,Cash,Electronics,246.75,0
+24-08-2023,Miscellaneous,Net Banking,Miscellanoues Expense,739.99,0
+24-08-2023,Groceries,Cash,Dairy,41.03,0
+25-08-2023,Miscellaneous,Net Banking,Miscellanoues Expense,331.27,0
+25-08-2023,Education,Net Banking,University fee,688.64,0
+25-08-2023,Entertainment,Net Banking,Music,411.6,0
+25-08-2023,Bills,Credit Card,Mobile Bill,707.88,15.67
+26-08-2023,Miscellaneous,UPI,Miscellanoues Expense,119.61,0.05
+26-08-2023,Miscellaneous,UPI,Miscellanoues Expense,256.8,5.9
+27-08-2023,Bills,Net Banking,Gas Bill,940.42,0
+27-08-2023,Bills,Cash,Electricity Bill,426.72,0
+28-08-2023,Groceries,Debit Card,Meat,802.19,0
+28-08-2023,Miscellaneous,Credit Card,Miscellanoues Expense,597.32,31.35
+28-08-2023,Subscriptions,Net Banking,Music,677.93,0
+29-08-2023,Groceries,Cash,Vegetables,173.19,0
+29-08-2023,Bills,Credit Card,Electricity Bill,129.04,8.38
+29-08-2023,Miscellaneous,Cash,Miscellanoues Expense,443.52,0
+29-08-2023,Healthcare,Net Banking,Medicine,787.64,0
+29-08-2023,Miscellaneous,Cash,Miscellanoues Expense,237.03,0
+30-08-2023,Entertainment,UPI,Gaming,89.02,4.22
+30-08-2023,Healthcare,Cash,Medicine,1462.24,0
+30-08-2023,Bills,UPI,Internet Bill,554.91,15.66
+30-08-2023,Groceries,Debit Card,Snacks,473.31,0
+31-08-2023,Miscellaneous,Cash,Miscellanoues Expense,58.92,0
+31-08-2023,Bills,Credit Card,Insurance Bill,614.59,44.8
+31-08-2023,Shopping,Net Banking,Electronics,8.29,0
+31-08-2023,Bills,Debit Card,Mobile Bill,195.22,0
+01-09-2023,Entertainment,Net Banking,Music,312.66,0
+02-09-2023,Bills,Debit Card,Electricity Bill,125.54,0
+02-09-2023,Bills,Debit Card,Gas Bill,369.01,0
+02-09-2023,Shopping,Debit Card,Brought a Gift for Someone,197.76,0
+03-09-2023,Miscellaneous,Debit Card,Miscellanoues Expense,506.37,0
+03-09-2023,Miscellaneous,UPI,Miscellanoues Expense,692.18,26.52
+03-09-2023,Entertainment,UPI,Hobbies,368.64,5.74
+04-09-2023,Miscellaneous,UPI,Miscellanoues Expense,180.12,1.49
+04-09-2023,Shopping,Cash,Beauty,369.78,0
+04-09-2023,Healthcare,Cash,Hospital Bill,2186.97,0
+05-09-2023,Entertainment,Cash,Gaming,317.92,0
+05-09-2023,Shopping,Debit Card,Beauty,35.72,0
+05-09-2023,Miscellaneous,Debit Card,Miscellanoues Expense,498.96,0
+05-09-2023,Groceries,Debit Card,Household,982.61,0
+06-09-2023,Bills,Net Banking,Cable Bill,877.85,0
+06-09-2023,Entertainment,Cash,Concert Tickets,891.5,0
+06-09-2023,Bills,Credit Card,Internet Bill,5.59,0.53
+07-09-2023,Subscriptions,Debit Card,Amazon Prime,33.96,0
+07-09-2023,Shopping,Cash,Brought a Gift for Someone,480.51,0
+08-09-2023,Subscriptions,Net Banking,Software,541.53,0
+08-09-2023,Shopping,Debit Card,Clothing,608.59,0
+08-09-2023,Healthcare,Credit Card,Medicine,4088.06,84.33
+08-09-2023,Subscriptions,Net Banking,Music,199.44,0
+09-09-2023,Subscriptions,Credit Card,Netflix,158.55,13.88
+09-09-2023,Healthcare,Credit Card,Hospital Bill,1274.83,95.63
+09-09-2023,Healthcare,Debit Card,Doctor's fee,4689.07,0
+09-09-2023,Groceries,UPI,Snacks,980.75,23.97
+09-09-2023,Entertainment,Debit Card,Concert Tickets,116.25,0
+09-09-2023,Groceries,Net Banking,Pantry,213.42,0
+09-09-2023,Miscellaneous,Debit Card,Miscellanoues Expense,666.78,0
+10-09-2023,Bills,Cash,Water Bill,898.94,0
+10-09-2023,Entertainment,Debit Card,Hobbies,721.23,0
+10-09-2023,Healthcare,Credit Card,Hospital Bill,4440.81,109.39
+11-09-2023,Miscellaneous,Net Banking,Miscellanoues Expense,132.6,0
+11-09-2023,Bills,Cash,Water Bill,485.21,0
+11-09-2023,Shopping,Cash,Home Goods,501.96,0
+11-09-2023,Entertainment,UPI,Concert Tickets,999.72,60.62
+11-09-2023,Bills,Debit Card,Electricity Bill,140.37,0
+12-09-2023,Miscellaneous,Debit Card,Miscellanoues Expense,419.41,0
+13-09-2023,Bills,Net Banking,Mobile Bill,828.68,0
+13-09-2023,Groceries,UPI,Bakery,302.29,15.7
+13-09-2023,Entertainment,UPI,Movie Tickets,683.8,57.88
+13-09-2023,Shopping,Debit Card,Electronics,183.08,0
+13-09-2023,Healthcare,Debit Card,Doctor's fee,3338.14,0
+13-09-2023,Shopping,Credit Card,Electronics,538.1,52.37
+13-09-2023,Healthcare,Cash,Hospital Bill,2021.54,0
+13-09-2023,Entertainment,Net Banking,Concert Tickets,324.06,0
+14-09-2023,Miscellaneous,Cash,Miscellanoues Expense,474.08,0
+14-09-2023,Entertainment,Debit Card,Sports,444.78,0
+14-09-2023,Shopping,Cash,Beauty,746.53,0
+14-09-2023,Bills,Credit Card,Mobile Bill,664.09,34.1
+14-09-2023,Subscriptions,Net Banking,Netflix,158.24,0
+14-09-2023,Shopping,Net Banking,Beauty,209,0
+15-09-2023,Subscriptions,UPI,Spotify,235.91,16.04
+15-09-2023,Shopping,Net Banking,Home Goods,994.7,0
+16-09-2023,Healthcare,Credit Card,Medicine,2714.91,136.78
+16-09-2023,Entertainment,Net Banking,Sports,838.7,0
+16-09-2023,Subscriptions,Cash,Netflix,603.87,0
+17-09-2023,Entertainment,Cash,Sports,759.47,0
+17-09-2023,Shopping,Cash,Brought a Gift for Someone,388.23,0
+18-09-2023,Subscriptions,Cash,Netflix,591.83,0
+18-09-2023,Subscriptions,Credit Card,Gym,946.51,17.3
+18-09-2023,Bills,Cash,Cable Bill,464.27,0
+18-09-2023,Healthcare,Credit Card,Hospital Bill,2198.37,97.26
+19-09-2023,Groceries,Credit Card,Pet Food,463.78,44.67
+19-09-2023,Miscellaneous,Credit Card,Miscellanoues Expense,949.03,70.37
+19-09-2023,Bills,UPI,Electricity Bill,675.44,43.69
+19-09-2023,Healthcare,Credit Card,Hospital Bill,856.78,85.1
+20-09-2023,Subscriptions,UPI,Gym,266.15,14.1
+20-09-2023,Shopping,Credit Card,Clothing,884.72,66.7
+21-09-2023,Shopping,Net Banking,Clothing,575.21,0
+21-09-2023,Groceries,Net Banking,Meat,879.75,0
+22-09-2023,Groceries,UPI,Household,772.75,76.72
+22-09-2023,Subscriptions,Cash,Music,423.56,0
+23-09-2023,Healthcare,Net Banking,Medicine,2019.34,0
+23-09-2023,Subscriptions,Cash,Netflix,579.67,0
+23-09-2023,Miscellaneous,Net Banking,Miscellanoues Expense,703.46,0
+23-09-2023,Shopping,Cash,Beauty,895.54,0
+24-09-2023,Subscriptions,Net Banking,Amazon Prime,181,0
+24-09-2023,Entertainment,Net Banking,Concert Tickets,138.12,0
+24-09-2023,Subscriptions,UPI,Software,340.93,13.48
+25-09-2023,Groceries,Cash,Fruits,471.14,0
+25-09-2023,Subscriptions,UPI,Software,274.03,21.65
+26-09-2023,Healthcare,UPI,Medicine,4414.57,424.12
+26-09-2023,Shopping,UPI,Brought a Gift for Someone,432.89,4.55
+26-09-2023,Entertainment,Credit Card,Hobbies,128.55,2.82
+26-09-2023,Groceries,UPI,Pantry,288.35,1.46
+27-09-2023,Healthcare,UPI,Medicine,4781.9,51.58
+27-09-2023,Entertainment,Net Banking,Concert Tickets,891.57,0
+27-09-2023,Subscriptions,UPI,Spotify,65.51,2.26
+29-09-2023,Subscriptions,Cash,Spotify,197.58,0
+29-09-2023,Entertainment,Net Banking,Hobbies,521.86,0
+29-09-2023,Entertainment,Credit Card,Concert Tickets,122.26,6.17
+29-09-2023,Subscriptions,Debit Card,Software,52.78,0
+29-09-2023,Miscellaneous,Debit Card,Miscellanoues Expense,888.46,0
+29-09-2023,Subscriptions,UPI,Software,918.99,17.21
+29-09-2023,Shopping,Cash,Clothing,643.48,0
+30-09-2023,Entertainment,Cash,Music,396.79,0
+30-09-2023,Groceries,Cash,Fruits,41.85,0
+30-09-2023,Bills,Debit Card,Mobile Bill,211.96,0
+01-10-2023,Healthcare,UPI,Doctor's fee,4778.04,236.79
+01-10-2023,Bills,Cash,Gas Bill,789.02,0
+01-10-2023,Miscellaneous,Credit Card,Miscellanoues Expense,896.14,46.7
+01-10-2023,Entertainment,UPI,Movie Tickets,205.47,0.59
+02-10-2023,Subscriptions,UPI,Music,228.91,2.66
+02-10-2023,Shopping,UPI,Clothing,331.84,31.65
+02-10-2023,Subscriptions,Cash,Gym,34.55,0
+02-10-2023,Healthcare,Credit Card,Hospital Bill,1069.07,58.87
+02-10-2023,Shopping,Debit Card,Electronics,591.98,0
+02-10-2023,Bills,UPI,Insurance Bill,933.31,11.94
+03-10-2023,Healthcare,Net Banking,Doctor's fee,795.71,0
+04-10-2023,Bills,Net Banking,Insurance Bill,909.23,0
+04-10-2023,Entertainment,Cash,Sports,374.26,0
+04-10-2023,Groceries,UPI,Household,699.18,12.38
+04-10-2023,Miscellaneous,UPI,Miscellanoues Expense,537.1,48.35
+05-10-2023,Entertainment,Credit Card,Music,403.04,26.04
+05-10-2023,Healthcare,Debit Card,Doctor's fee,2747.1,0
+05-10-2023,Healthcare,UPI,Doctor's fee,2435.35,82.95
+06-10-2023,Subscriptions,Net Banking,Spotify,323.91,0
+07-10-2023,Bills,Debit Card,Water Bill,687.04,0
+07-10-2023,Healthcare,Debit Card,Doctor's fee,3227.11,0
+07-10-2023,Entertainment,UPI,Hobbies,797.42,50.54
+08-10-2023,Bills,Debit Card,Cable Bill,767.08,0
+08-10-2023,Groceries,Cash,Household,11.6,0
+09-10-2023,Healthcare,Cash,Medicine,3876.41,0
+09-10-2023,Shopping,Cash,Home Goods,665.57,0
+09-10-2023,Entertainment,Net Banking,Concert Tickets,863.04,0
+10-10-2023,Entertainment,Cash,Concert Tickets,675.47,0
+10-10-2023,Miscellaneous,Debit Card,Miscellanoues Expense,942.13,0
+10-10-2023,Miscellaneous,Credit Card,Miscellanoues Expense,290.47,13.47
+10-10-2023,Subscriptions,Credit Card,Music,74.2,0.02
+10-10-2023,Subscriptions,Net Banking,Music,686.32,0
+11-10-2023,Bills,Debit Card,Gas Bill,552.28,0
+11-10-2023,Shopping,Cash,Clothing,824.83,0
+11-10-2023,Subscriptions,Cash,Amazon Prime,618.02,0
+12-10-2023,Entertainment,UPI,Concert Tickets,104.13,1.95
+12-10-2023,Subscriptions,Cash,Amazon Prime,172.16,0
+12-10-2023,Entertainment,Debit Card,Sports,890.45,0
+12-10-2023,Miscellaneous,Net Banking,Miscellanoues Expense,713.78,0
+13-10-2023,Healthcare,Net Banking,Hospital Bill,3743.48,0
+13-10-2023,Miscellaneous,UPI,Miscellanoues Expense,675.6,9.92
+13-10-2023,Entertainment,Credit Card,Music,57.43,3.84
+13-10-2023,Travel,Net Banking,Train ticket,803.77,0
+13-10-2023,Bills,Credit Card,Electricity Bill,740.25,31.75
+13-10-2023,Groceries,Net Banking,Bakery,82.02,0
+13-10-2023,Subscriptions,Cash,Gym,246.39,0
+14-10-2023,Healthcare,Net Banking,Doctor's fee,3412.38,0
+14-10-2023,Groceries,Net Banking,Pantry,543.14,0
+14-10-2023,Shopping,Net Banking,Beauty,974.05,0
+14-10-2023,Bills,UPI,Internet Bill,750.73,29.42
+14-10-2023,Entertainment,Credit Card,Concert Tickets,509.61,26.67
+15-10-2023,Healthcare,Debit Card,Medicine,4603.6,0
+16-10-2023,Groceries,UPI,Snacks,996.47,79.23
+16-10-2023,Bills,UPI,Gas Bill,194.91,16.03
+16-10-2023,Entertainment,UPI,Sports,619.53,14.4
+16-10-2023,Subscriptions,Debit Card,Netflix,625.14,0
+17-10-2023,Shopping,Cash,Home Goods,171.8,0
+17-10-2023,Healthcare,Net Banking,Hospital Bill,2481.91,0
+17-10-2023,Healthcare,Debit Card,Medicine,2443.82,0
+17-10-2023,Entertainment,Net Banking,Hobbies,953.34,0
+17-10-2023,Shopping,UPI,Brought a Gift for Someone,577.89,15.75
+18-10-2023,Healthcare,Debit Card,Medicine,3027.38,0
+18-10-2023,Miscellaneous,UPI,Miscellanoues Expense,859.68,81.69
+19-10-2023,Entertainment,UPI,Gaming,150.47,10.18
+19-10-2023,Miscellaneous,Credit Card,Miscellanoues Expense,958.92,95.7
+19-10-2023,Entertainment,Cash,Music,960.04,0
+19-10-2023,Entertainment,Net Banking,Hobbies,14.91,0
+19-10-2023,Miscellaneous,Credit Card,Miscellanoues Expense,689.19,66.88
+19-10-2023,Miscellaneous,Net Banking,Miscellanoues Expense,224.77,0
+20-10-2023,Subscriptions,UPI,Spotify,160.22,0.25
+21-10-2023,Bills,Net Banking,Insurance Bill,727.18,0
+21-10-2023,Healthcare,UPI,Hospital Bill,4502.59,67.31
+21-10-2023,Miscellaneous,Net Banking,Miscellanoues Expense,148.92,0
+23-10-2023,Bills,Debit Card,Insurance Bill,337.7,0
+23-10-2023,Shopping,Debit Card,Brought a Gift for Someone,941.68,0
+23-10-2023,Miscellaneous,Debit Card,Miscellanoues Expense,600.64,0
+23-10-2023,Miscellaneous,Credit Card,Miscellanoues Expense,157.41,12.7
+23-10-2023,Entertainment,Credit Card,Gaming,333.8,6.46
+24-10-2023,Groceries,Cash,Pet Food,837.47,0
+24-10-2023,Shopping,Net Banking,Beauty,9.72,0
+24-10-2023,Miscellaneous,Net Banking,Miscellanoues Expense,173.6,0
+24-10-2023,Entertainment,Net Banking,Music,748.99,0
+25-10-2023,Miscellaneous,UPI,Miscellanoues Expense,824.1,25.46
+25-10-2023,Shopping,Net Banking,Brought a Gift for Someone,611.35,0
+26-10-2023,Healthcare,Debit Card,Doctor's fee,2402.59,0
+26-10-2023,Healthcare,Net Banking,Hospital Bill,4167.01,0
+26-10-2023,Shopping,Credit Card,Beauty,779.47,42.12
+26-10-2023,Subscriptions,UPI,Amazon Prime,174.89,8.22
+26-10-2023,Subscriptions,Cash,Spotify,738.03,0
+26-10-2023,Bills,Credit Card,Electricity Bill,270.79,4.39
+27-10-2023,Entertainment,UPI,Movie Tickets,991.3,48.13
+27-10-2023,Healthcare,UPI,Hospital Bill,3970.92,239.73
+28-10-2023,Healthcare,Debit Card,Medicine,2491.22,0
+28-10-2023,Bills,UPI,Water Bill,274.67,3.17
+29-10-2023,Bills,Credit Card,Mobile Bill,775.45,49.05
+29-10-2023,Groceries,Credit Card,Vegetables,79.38,7.84
+30-10-2023,Groceries,Net Banking,Pet Food,927,0
+30-10-2023,Entertainment,Net Banking,Hobbies,481.28,0
+30-10-2023,Miscellaneous,Cash,Miscellanoues Expense,291.31,0
+30-10-2023,Groceries,Credit Card,Household,129.93,7.56
+01-11-2023,Shopping,Credit Card,Beauty,84.52,2.39
+01-11-2023,Bills,Debit Card,Water Bill,125.37,0
+01-11-2023,Miscellaneous,Cash,Miscellanoues Expense,731.49,0
+01-11-2023,Groceries,Credit Card,Bakery,627.92,55
+02-11-2023,Bills,Net Banking,Electricity Bill,672.72,0
+02-11-2023,Shopping,Credit Card,Home Goods,584.64,2.67
+02-11-2023,Subscriptions,Debit Card,Music,378.99,0
+02-11-2023,Subscriptions,Credit Card,Netflix,173.94,6.77
+03-11-2023,Bills,Cash,Mobile Bill,936.27,0
+03-11-2023,Bills,Credit Card,Water Bill,74.87,0.84
+04-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,862.95,13.83
+04-11-2023,Groceries,Net Banking,Vegetables,142.91,0
+05-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,658.34,18.41
+06-11-2023,Healthcare,Net Banking,Hospital Bill,1873.27,0
+06-11-2023,Shopping,Credit Card,Beauty,640.19,2.7
+06-11-2023,Bills,Credit Card,Cable Bill,500.01,27.95
+06-11-2023,Shopping,Debit Card,Electronics,963.01,0
+06-11-2023,Bills,Debit Card,Water Bill,756.68,0
+06-11-2023,Entertainment,Debit Card,Hobbies,284.56,0
+07-11-2023,Miscellaneous,UPI,Miscellanoues Expense,375.53,17.14
+07-11-2023,Shopping,UPI,Brought a Gift for Someone,20.19,1.38
+07-11-2023,Shopping,Cash,Brought a Gift for Someone,581.7,0
+09-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,62.39,4.95
+09-11-2023,Healthcare,Debit Card,Medicine,2881.13,0
+09-11-2023,Entertainment,Debit Card,Hobbies,612.25,0
+09-11-2023,Entertainment,Net Banking,Music,379.23,0
+10-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,163.88,8.09
+10-11-2023,Groceries,Credit Card,Meat,466.5,22.35
+10-11-2023,Healthcare,Debit Card,Medicine,4708.29,0
+10-11-2023,Entertainment,Cash,Music,835.32,0
+10-11-2023,Groceries,Debit Card,Vegetables,900.65,0
+11-11-2023,Healthcare,Credit Card,Medicine,3007.91,3.12
+11-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,718.31,65.67
+11-11-2023,Miscellaneous,Debit Card,Miscellanoues Expense,893.74,0
+11-11-2023,Entertainment,Cash,Concert Tickets,305.22,0
+12-11-2023,Bills,Net Banking,Internet Bill,787.49,0
+12-11-2023,Bills,Credit Card,Electricity Bill,44.84,2.67
+13-11-2023,Miscellaneous,Cash,Miscellanoues Expense,928.93,0
+13-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,315.43,18.84
+13-11-2023,Subscriptions,UPI,Spotify,814.59,65.06
+13-11-2023,Bills,Net Banking,Insurance Bill,625.24,0
+13-11-2023,Miscellaneous,Net Banking,Miscellanoues Expense,921.98,0
+13-11-2023,Shopping,Net Banking,Brought a Gift for Someone,59.79,0
+14-11-2023,Travel,Credit Card,Hotel,3675.55,357.54
+14-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,619.18,53.57
+14-11-2023,Miscellaneous,Cash,Miscellanoues Expense,845.97,0
+15-11-2023,Bills,Debit Card,Gas Bill,265.96,0
+15-11-2023,Healthcare,Cash,Hospital Bill,1427.44,0
+15-11-2023,Shopping,Credit Card,Beauty,967.35,87.16
+16-11-2023,Shopping,UPI,Brought a Gift for Someone,818.29,7.45
+16-11-2023,Shopping,UPI,Electronics,802.97,25.18
+17-11-2023,Healthcare,UPI,Hospital Bill,3523.88,305.58
+17-11-2023,Subscriptions,Cash,Amazon Prime,227.97,0
+18-11-2023,Bills,Credit Card,Cable Bill,319.65,25.68
+18-11-2023,Subscriptions,Net Banking,Netflix,564.35,0
+18-11-2023,Shopping,Cash,Home Goods,500.61,0
+19-11-2023,Entertainment,UPI,Concert Tickets,894.7,75.08
+20-11-2023,Entertainment,UPI,Sports,568.05,39.57
+20-11-2023,Subscriptions,Cash,Software,207.73,0
+20-11-2023,Healthcare,Debit Card,Doctor's fee,4302.89,0
+20-11-2023,Entertainment,Debit Card,Concert Tickets,921.85,0
+20-11-2023,Bills,Cash,Insurance Bill,443.77,0
+20-11-2023,Miscellaneous,UPI,Miscellanoues Expense,925.79,78.13
+21-11-2023,Groceries,Debit Card,Household,294.39,0
+21-11-2023,Groceries,UPI,Pet Food,67,2.52
+22-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,412.68,37.54
+22-11-2023,Groceries,Debit Card,Snacks,254.41,0
+22-11-2023,Groceries,Net Banking,Pet Food,497.61,0
+22-11-2023,Healthcare,UPI,Medicine,1478.69,117.33
+22-11-2023,Entertainment,Debit Card,Concert Tickets,624.52,0
+22-11-2023,Groceries,UPI,Fruits,153.18,12.82
+22-11-2023,Healthcare,UPI,Doctor's fee,1096.82,8.03
+23-11-2023,Groceries,Credit Card,Dairy,165.24,12.76
+23-11-2023,Shopping,Net Banking,Electronics,794.84,0
+23-11-2023,Shopping,Net Banking,Brought a Gift for Someone,687.81,0
+23-11-2023,Bills,Credit Card,Cable Bill,957.77,17.7
+24-11-2023,Groceries,Cash,Vegetables,52.08,0
+24-11-2023,Miscellaneous,Cash,Miscellanoues Expense,318.07,0
+24-11-2023,Groceries,UPI,Fruits,977.54,0.75
+24-11-2023,Bills,Debit Card,Water Bill,475.08,0
+25-11-2023,Subscriptions,Cash,Software,716.13,0
+25-11-2023,Subscriptions,Net Banking,Software,114.82,0
+25-11-2023,Groceries,Debit Card,Pantry,820.83,0
+25-11-2023,Healthcare,Credit Card,Medicine,2056.68,181.49
+26-11-2023,Subscriptions,Net Banking,Software,769.01,0
+26-11-2023,Groceries,Net Banking,Vegetables,898.36,0
+26-11-2023,Healthcare,Cash,Doctor's fee,95.05,0
+26-11-2023,Bills,Cash,Water Bill,556.96,0
+26-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,71.36,3.5
+26-11-2023,Subscriptions,Net Banking,Spotify,55.09,0
+27-11-2023,Bills,Cash,Gas Bill,266.03,0
+27-11-2023,Miscellaneous,UPI,Miscellanoues Expense,73.18,1.84
+27-11-2023,Healthcare,Cash,Hospital Bill,182.91,0
+27-11-2023,Groceries,Credit Card,Bakery,915.4,88.34
+27-11-2023,Bills,Cash,Electricity Bill,991.61,0
+27-11-2023,Entertainment,UPI,Gaming,484.2,9.78
+29-11-2023,Miscellaneous,Credit Card,Miscellanoues Expense,610.08,30.18
+29-11-2023,Shopping,UPI,Electronics,672.66,43.8
+30-11-2023,Bills,Credit Card,Cable Bill,111.99,9.66
+30-11-2023,Shopping,Credit Card,Electronics,257.61,1.57
+01-12-2023,Healthcare,UPI,Medicine,4751.43,364.08
+01-12-2023,Shopping,Cash,Electronics,210.66,0
+02-12-2023,Healthcare,Credit Card,Medicine,3668.04,228.22
+02-12-2023,Entertainment,Debit Card,Sports,339.94,0
+02-12-2023,Travel,Net Banking,Bus ticket,1626.74,0
+02-12-2023,Entertainment,UPI,Hobbies,148.05,13.37
+02-12-2023,Groceries,UPI,Vegetables,897.73,41.13
+03-12-2023,Entertainment,UPI,Sports,979.11,80.26
+03-12-2023,Subscriptions,Net Banking,Software,785.45,0
+03-12-2023,Bills,Debit Card,Internet Bill,755.65,0
+03-12-2023,Healthcare,Credit Card,Medicine,430.53,2.61
+04-12-2023,Healthcare,Net Banking,Doctor's fee,4263.7,0
+04-12-2023,Miscellaneous,Net Banking,Miscellanoues Expense,910.3,0
+04-12-2023,Miscellaneous,Credit Card,Miscellanoues Expense,601.02,59.1
+05-12-2023,Groceries,Credit Card,Household,811.63,43.74
+05-12-2023,Bills,Debit Card,Internet Bill,14.58,0
+06-12-2023,Groceries,Cash,Pet Food,146.5,0
+06-12-2023,Shopping,Net Banking,Clothing,880.9,0
+06-12-2023,Miscellaneous,Credit Card,Miscellanoues Expense,408.41,2.21
+06-12-2023,Groceries,Debit Card,Fruits,180.01,0
+06-12-2023,Healthcare,Debit Card,Doctor's fee,2139.85,0
+07-12-2023,Bills,Net Banking,Cable Bill,770.41,0
+07-12-2023,Entertainment,Credit Card,Movie Tickets,513.65,48.19
+08-12-2023,Travel,UPI,Cab Fare,2955.23,34.98
+08-12-2023,Subscriptions,Cash,Spotify,689.13,0
+08-12-2023,Subscriptions,Cash,Netflix,761.66,0
+09-12-2023,Subscriptions,Credit Card,Amazon Prime,540.1,10.32
+09-12-2023,Travel,Cash,Train ticket,2105.71,0
+09-12-2023,Bills,Credit Card,Water Bill,493.39,24.05
+09-12-2023,Groceries,Credit Card,Meat,739.1,38.16
+09-12-2023,Entertainment,Debit Card,Music,4.82,0
+09-12-2023,Groceries,Net Banking,Snacks,87.95,0
+09-12-2023,Travel,Net Banking,Bus ticket,3982.85,0
+09-12-2023,Healthcare,Debit Card,Hospital Bill,1043.03,0
+09-12-2023,Groceries,Credit Card,Meat,701.85,33.68
+09-12-2023,Shopping,Net Banking,Electronics,307.37,0
+09-12-2023,Groceries,Net Banking,Fruits,80.38,0
+10-12-2023,Subscriptions,Credit Card,Netflix,520.37,23.66
+10-12-2023,Entertainment,Cash,Movie Tickets,563.45,0
+11-12-2023,Healthcare,Debit Card,Doctor's fee,1486.61,0
+11-12-2023,Subscriptions,Debit Card,Gym,531.04,0
+11-12-2023,Subscriptions,Credit Card,Spotify,948.76,77.17
+12-12-2023,Healthcare,UPI,Doctor's fee,591.25,43.95
+12-12-2023,Travel,Cash,Flight ticket,2001.82,0
+12-12-2023,Healthcare,Net Banking,Doctor's fee,2517.71,0
+12-12-2023,Groceries,Net Banking,Pantry,810.16,0
+13-12-2023,Healthcare,Cash,Medicine,2534.62,0
+13-12-2023,Travel,Net Banking,Bus ticket,3627.39,0
+13-12-2023,Bills,Credit Card,Mobile Bill,487.78,16.03
+13-12-2023,Healthcare,UPI,Doctor's fee,4837.31,473.53
+14-12-2023,Entertainment,Net Banking,Movie Tickets,51.03,0
+14-12-2023,Bills,Net Banking,Electricity Bill,198.4,0
+14-12-2023,Shopping,Net Banking,Home Goods,98.47,0
+14-12-2023,Shopping,Cash,Brought a Gift for Someone,244.16,0
+14-12-2023,Miscellaneous,Net Banking,Miscellanoues Expense,516.72,0
+14-12-2023,Entertainment,UPI,Hobbies,157.57,3.82
+14-12-2023,Healthcare,Debit Card,Doctor's fee,1555.9,0
+14-12-2023,Entertainment,Cash,Sports,793.75,0
+15-12-2023,Bills,Net Banking,Cable Bill,64.34,0
+15-12-2023,Bills,Credit Card,Electricity Bill,905.46,50.1
+16-12-2023,Entertainment,Debit Card,Concert Tickets,671.71,0
+16-12-2023,Groceries,UPI,Fruits,617.58,50.6
+16-12-2023,Bills,Credit Card,Water Bill,679.19,52.71
+17-12-2023,Healthcare,UPI,Doctor's fee,4198.81,321.62
+17-12-2023,Entertainment,UPI,Concert Tickets,190.45,17.47
+17-12-2023,Shopping,Debit Card,Home Goods,54.14,0
+17-12-2023,Miscellaneous,Cash,Miscellanoues Expense,439.91,0
+17-12-2023,Subscriptions,Debit Card,Music,830.82,0
+18-12-2023,Groceries,Cash,Pantry,698.04,0
+18-12-2023,Groceries,Debit Card,Household,653.77,0
+19-12-2023,Healthcare,Cash,Hospital Bill,4053.97,0
+19-12-2023,Travel,UPI,Train ticket,526.68,16.74
+19-12-2023,Bills,Debit Card,Mobile Bill,192.99,0
+20-12-2023,Bills,UPI,Cable Bill,372.73,19.26
+20-12-2023,Healthcare,UPI,Medicine,433.31,9.03
+21-12-2023,Subscriptions,Debit Card,Spotify,525.85,0
+22-12-2023,Travel,Debit Card,Hotel,3771.37,0
+22-12-2023,Bills,Debit Card,Internet Bill,138.51,0
+22-12-2023,Travel,Cash,Train ticket,715.33,0
+22-12-2023,Subscriptions,Debit Card,Software,355.93,0
+24-12-2023,Healthcare,Net Banking,Hospital Bill,1963.42,0
+24-12-2023,Travel,Cash,Train ticket,762.63,0
+24-12-2023,Healthcare,Credit Card,Medicine,547.99,32.83
+24-12-2023,Entertainment,UPI,Movie Tickets,248.32,10.74
+26-12-2023,Bills,Net Banking,Gas Bill,969.66,0
+26-12-2023,Groceries,Cash,Household,91.59,0
+26-12-2023,Entertainment,UPI,Music,690.11,63.72
+26-12-2023,Healthcare,Debit Card,Medicine,2610.41,0
+26-12-2023,Shopping,UPI,Home Goods,68,4.29
+27-12-2023,Subscriptions,Debit Card,Music,501.99,0
+27-12-2023,Subscriptions,Cash,Gym,762.08,0
+28-12-2023,Entertainment,Net Banking,Hobbies,499.87,0
+28-12-2023,Miscellaneous,Net Banking,Miscellanoues Expense,519.04,0
+28-12-2023,Entertainment,UPI,Gaming,776.55,55.37
+29-12-2023,Shopping,Net Banking,Beauty,466.73,0
+30-12-2023,Miscellaneous,Debit Card,Miscellanoues Expense,994.58,0
+30-12-2023,Bills,Credit Card,Water Bill,430.77,20.83
+31-12-2023,Miscellaneous,Credit Card,Miscellanoues Expense,873.16,61.62
+31-12-2023,Shopping,Debit Card,Clothing,985.46,0
+31-12-2023,Healthcare,UPI,Medicine,4921.39,267.96
