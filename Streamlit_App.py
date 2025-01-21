@@ -19,7 +19,7 @@ with tab_home:
     st.header("Welcome to the Expense Analyzer")
     st.write("This is a simple expense tracker application that allows users to track their expenses and analyze their spending habits.")
     st.write("Contents of the page:")
-    st.write("1. **All Data**- This tab will show all the expenses.")
+    st.write("1. **Data**- This tab will show all the expenses.")
     st.write("2. **SQL Queries**- This tab will show the SQL queries run by the user to analyze the data.")
     st.write("3. **Visualizations**- This tab will show the visualizations made by the user.")
     
